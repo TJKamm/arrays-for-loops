@@ -1,5 +1,3 @@
-//create an array
-var colorsList = ["Red", "Black", "Orange", "Blue", "Yellow", "Purple", "Green"];
 
 //variables IN functions (function scope), can see global //variables
 
